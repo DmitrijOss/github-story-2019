@@ -12,3 +12,4 @@
   - created a chapter1.html file
   - Added a .gitignore file to ignore the .ideas folder
   - First paragraph of chapter 1 done
+  - Second paragraph of chapter 1 done

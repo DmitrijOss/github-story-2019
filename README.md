@@ -10,3 +10,5 @@
 
 - 16/03/2019:
   - created a chapter1.html file
+  - Added a .gitignore file to ignore the .ideas folder
+  - Added a .gitignore file to ignore the .ideas folder

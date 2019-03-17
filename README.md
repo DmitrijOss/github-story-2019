@@ -18,3 +18,4 @@
 - 17/03/2019:
   - Created chapter2.html file
   - Fixed some grammatical errors in chapter 1
+  - first paragraph of chapter 2 done

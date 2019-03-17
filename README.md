@@ -14,3 +14,7 @@
   - First paragraph of chapter 1 done
   - Second paragraph of chapter 1 done
   - Third paragraph of chapter 1 done
+  
+- 17/03/2019:
+  - Created chapter2.html file
+  - Fixed some grammatical errors in chapter 1

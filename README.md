@@ -19,3 +19,6 @@
   - Created chapter2.html file
   - Fixed some grammatical errors in chapter 1
   - first paragraph of chapter 2 done
+  
+- 18/03/2019
+  - Second paragraph of chapter 2 done

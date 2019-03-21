@@ -24,3 +24,7 @@
   - Second paragraph of chapter 2 done
   - Third Paragraph of chapter 2 done
   - Chapter 2 finished.
+  
+- 21/03/2019
+  - Chapter3.html created
+  

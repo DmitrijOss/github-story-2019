@@ -27,4 +27,5 @@
   
 - 21/03/2019
   - Chapter3.html created
+  - Chapter 3 paragraph 1 finished
   

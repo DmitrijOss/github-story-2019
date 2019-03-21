@@ -29,4 +29,6 @@
   - Chapter3.html created
   - Chapter 3 paragraph 1 finished
   - Chapter 3 paragraph 2 finished
+  - Chapter 3 paragraph 3 finished
+  - Chapter 3 finished
   

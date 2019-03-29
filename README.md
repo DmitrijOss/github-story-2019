@@ -34,4 +34,6 @@
   
 - 29/03/2019
   - Changed paragraph 2 of chapter 3 on the alternative ending branch
+  - wrote paragraph 3 of chapter 3 on the alternative ending branch
+  - Finished alternative ending in chapter 3
   

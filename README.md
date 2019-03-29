@@ -32,3 +32,6 @@
   - Chapter 3 paragraph 3 finished
   - Chapter 3 finished
   
+- 29/03/2019
+  - Changed paragraph 2 of chapter 3 on the alternative ending branch
+  
